@@ -3,7 +3,7 @@
 - I’m interested in Coding
 - I’m currently learning React.JS
 - I’m looking for Jobs and internships
-- My Mail is areebafatimaaaa787@gmail.com
+- Reach me at areebafatimaaaa787@gmail.com
 
 
 <!---
