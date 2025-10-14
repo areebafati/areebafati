@@ -13,17 +13,22 @@ Turning curiosity into code — passionate about frontend development
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=areebafati&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br clear="both"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=areebafati&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=areebafati&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=areebafati&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=areebafati&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/areebafati/areebafati/output/snake.svg" alt="Snake animation" />
+
+###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=areebafati&icon=0&color=10)](https://visitcount.itsvg.in)
